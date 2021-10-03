@@ -1,3 +1,3 @@
-function myFunction() {
-    document.write("Hello World!");
+function foo(){
+    document.getElementById('para').innerHTML += 'and adding ';
 }
